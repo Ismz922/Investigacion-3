@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/Diseño.css">
+    <title>Investigacion#3</title>
+</head>
+
+<body>
+    <header>
+        <h2>Diseño web centrado al usuario</h2>
+    </header>
+    <main>
+        <section>
+            <article>
+                <h1>¿Qué es DCU?</h1>
+                <p>El DCU o diseño centrado en el usuario consiste en que la página web debe tener en cuenta</p>
+                <p>la experiencia del usuario para que esta sea la mejor posible.</p>
+                <br>
+                <p>Además su importancia radica en que si la página le ofrece una buena experiencia al usuario de esta
+                </p>
+                <p>es muy probable que el usuario desee quedarse en la página para ver que le ofrece a este y de paso
+                    mejora la</p>
+                <p>propia accesibilidad de la página.</p>
+                <span><b><br>Canal. P.</b></span>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h1>Etapas del DCU</h1>
+                <p>El DCU puede estar formado por varias etapas las cuales son muy importantes para un buen </p>
+                <p>estructurado de la página para ofrecer la mejor experiencia posible.</p>
+                <p>Las etapas que forman el DCU son:</p>
+                <div class="Etapas">
+                    <h1><b>Investigacion:</b></h1>
+                    <p>Aquí es donde se piensa que se le va a ofrecer al usuario pero más importante aun</p>
+                    <p> a que tipo de usuarios va dirigido, esto se hace para que la página realmente conecte</p>
+                    <p>con el público objetivo.</p>
+                    <br>
+                    <h1><b>Concepto:</b></h1>
+                    <p>Después de un buen estudio de los usuarios objetivos se pasa al concepto para la página, donde
+                    </p>
+                    <p>se comienza a ver posibles soluciones para llegar y atraer al público objetivo donde se guardan
+                    </p>
+                    <p>las más factibles y se descartan las que no son concretas o no cumplen la mayoría de requisitos.
+                    </p>
+                    <h1><b>Diseño:</b></h1>
+                    <p>En el diseño es donde se implementan todas esas ideas que se han obtenido del concepto hecho ya,
+                    </p>
+                    <p>además de que es posible que aparezcan nuevas ideas para implementar en el diseño, lo importante
+                    </p>
+                    <p>aquí es ver cómo se comportan todas esas ideas en un prototipo de la página.</p>
+                    <h1><b>Evaluación:</b></h1>
+                    <p>En esta parte se muestra el prototipo de la página web a personas que sean posibles usuarios en
+                        el</p>
+                    <p>futuro para poder obtener comentarios de retroalimentación o consejos, los cuales permitan </p>
+                    <p>mejorar aun más la página y hacerla más optima.</p>
+                    <h1><b>Lanzamiento:</b></h1>
+                    <p>En esta etapa final donde todo lo anterior tuvo un aporte significativo para crear una página web
+                        enfocada </p>
+                    <p>al público deseado, pero es importante darle seguimiento para conocer si cumplió su objetivo.</p>
+                    
+                </div>
+                <span><b><br>Iberdrola.</b></span>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h1>Beneficios de DCU</h1>
+                <ul>
+                    <li>Aumenta la satisfacción del cliente.</li>
+                    <li>Disminuye el costo del mantenimiento.</li>
+                    <li>Aumenta la productividad del usuario.</li>
+                    <li>Reduce el costo y tiempo de desarrollo.</li>
+                    <li>Reduce los costos de soporte y formacion.</li>
+                </ul>
+                <span><b><br>Mendoza. A.</b></span>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h1>Ejemplos</h1>
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan="4">Ejemplos</th>
+                        </tr>
+                        <tr>
+                            <th colspan="1">Ejemplo</th>
+                            <th colspan="1">Explicación</th>
+                            <th colspan="1">Imagen</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <p>Waze</p>
+                            </td>
+                            <td>
+                                <p>Lo que hace Waze diferente a otros GPS es el simple hecho que solo le solicita</p>
+                                <p>al usuario a donde ir sin mucha complejidad y lo guía dejandole poco control al
+                                    usuario</p>
+                                <p>pero así hace que la navegación sea más acertiva al llevarle a su destino.</p>
+                            </td>
+                            <td>
+                                <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/waze-icon.png"
+                                    alt="Logo de Waze" width="200px" height="150px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Youtube</p>
+                            </td>
+                            <td>
+                                <p>En el caso de Youtube es que con el pasar de los años fue adaptando su propia
+                                    interfaz</p>
+                                <p>para las nuevas tecnologias y con la llegada del telefono inteligente tuvo que
+                                    readaptar </p>
+                                <p> su interfaz para que cada usuario pueda tener una experiencia comoda sin importar su
+                                    dispositivo.</p>
+                            </td>
+                            <td>
+                                <img src="https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png"
+                                    alt="Logo de Waze" width="200px" height="150px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <p>Twitter/X y sus hilos</p>
+                            </td>
+                            <td>
+                                <p>La función de los hilos en Twitter ha sido una de las funciones mas interesantes y
+                                    astutas en</p>
+                                <p>temas de difusión de contenido en gran escala ya que los hilos permiten que
+                                    publicaciones relacionadas</p>
+                                <p>sean más faciles de leer y entender ya que se podrá identificar el orden en el que se
+                                    lee las </p>
+                                <p>publicaciones para el usuario permitiendo una navegación más comoda.</p>
+                            </td>
+                            <td>
+                                <img src="data:image/jpeg;base64,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"
+                                    alt="Logo de Twitter/X" width="200px" height="100px">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <span><b><br>Pursell. S</b></span>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h1>Fuentes</h1>
+                <a href="https://www.iebschool.com/blog/diseno-centrado-en-el-usuario-analitica-usabilidad/"
+                    target="_blank">Información
+                    usada para la definición</a>
+                <a href="https://www.iberdrola.com/innovacion/que-es-diseno-centrado-en-el-usuario"
+                    target="_blank">Información
+                    usada para las etapas</a>
+                <a href="https://platzi.com/clases/1562-diseno-usuario/19697-el-proceso-del-diseno-centrado-en-el-usuario-y-sus/#:~:text=ventajas%20del%20DCU,-Aumentar%20la%20satisfacción&text=del%20usuario%2Fcliente.-,Aumenta%20la%20productividad%20y%20la%20eficiencia%20del%20usuario.,y%20los%20costos%20de%20desarrollo."
+                    target="_blank">Información
+                    usada para los Beneficios</a>
+                <a href="https://blog.hubspot.es/website/diseno-centrado-usuario" target="_blank">Información
+                    usada para los ejemplos</a>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <b>Hecho por Isaac Salazar Molina</b>
+    </footer>
+
+</body>
+
+</html>
